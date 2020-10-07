@@ -31,7 +31,7 @@
     z-index: 1;
     position: relative;
     left: 54px;
-    top: 18px;
+    top: 14px;
     background-color: white;
 }
 
@@ -44,6 +44,32 @@
     top: 1em;
     left: 1em;
     background-color: black;
+}
+
+.lefteyebrow{
+    width: 8px;
+    height: 2px;
+    border: solid 1px black;
+    border-radius: 3px;
+    z-index: 1;
+    position: relative;
+    left: 32px;
+    top: 23px;
+    background-color: black;
+
+}
+
+.righteyebrow{
+    width: 8px;
+    height: 2px;
+    border: solid 1px black;
+    border-radius: 3px;
+    z-index: 1;
+    position: relative;
+    left: 54px;
+    top: 10px;
+    background-color: black;
+
 }
 
 #inner-left{
@@ -66,4 +92,16 @@
     left: 2px;
     top: 2px;
     background-color: cornflowerblue;
+}
+
+.tongue{
+    width: 50%;
+    height: 4px;
+    border-radius: 10px;
+    border-color: red;
+    margin: 25%;
+    position: relative;
+    top: 4px;
+    left: 2px;
+    background-color: darkred;
 }
