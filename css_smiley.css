@@ -34,3 +34,14 @@
     top: 18px;
     background-color: black;
 }
+
+.mouth{
+    width: 30px;
+    height: 10px;
+    border-radius: 0 0 45px 45px;
+    margin: 16px;
+    position: relative;
+    top: 1em;
+    left: 1em;
+    background-color: black;
+}
